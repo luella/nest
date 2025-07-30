@@ -3,7 +3,7 @@ R code and example script for NEST
 
 This code implements the NEST estimator from 
 Nonparametric empirical Bayes estimation on heterogeneous data
-[https://arxiv.org/pdf/2002.12586v3](Link to paper)
+[https://arxiv.org/pdf/2002.12586v3]
 
 The three files are:
 
